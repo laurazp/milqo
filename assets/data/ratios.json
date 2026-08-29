@@ -1,0 +1,112 @@
+[
+  {
+    "ratioId": "ratio_avena",
+    "ingredientId": "avena",
+    "gramosBase": 150.0,
+    "aguaMlBase": 1000.0,
+    "confianza": "media",
+    "fuentes": [
+      {
+        "nombre": "Minimalist Baker - How to Make Oat Milk",
+        "url": "https://minimalistbaker.com/make-oat-milk/"
+      },
+      {
+        "nombre": "Detoxinista - Best Oat Milk Recipe",
+        "url": "https://detoxinista.com/oat-milk/"
+      },
+      {
+        "nombre": "The Banana Diaries - Oat Milk (4,7/5, 50 reseñas)",
+        "url": "https://thebananadiaries.com/how-to-make-oat-milk-non-slimy/"
+      }
+    ],
+    "ultimaVerificacion": "2026-01-01"
+  },
+  {
+    "ratioId": "ratio_almendra",
+    "ingredientId": "almendra",
+    "gramosBase": 150.0,
+    "aguaMlBase": 1000.0,
+    "confianza": "mediaAlta",
+    "fuentes": [
+      {
+        "nombre": "Alphafoodie - Zero-Waste Homemade Almond Milk",
+        "url": "https://www.alphafoodie.com/zero-waste-homemade-almond-milk/"
+      },
+      {
+        "nombre": "Detoxinista - Homemade Almond Milk",
+        "url": "https://detoxinista.com/how-to-make-homemade-almond-milk/"
+      },
+      {
+        "nombre": "Feel Good Foodie - How to Make Almond Milk",
+        "url": "https://feelgoodfoodie.net/recipe/how-to-make-almond-milk/"
+      }
+    ],
+    "ultimaVerificacion": "2026-01-01"
+  },
+  {
+    "ratioId": "ratio_pistacho",
+    "ingredientId": "pistacho",
+    "gramosBase": 130.0,
+    "aguaMlBase": 1000.0,
+    "confianza": "alta",
+    "fuentes": [
+      {
+        "nombre": "Cookie and Kate - Pistachio Milk",
+        "url": "https://cookieandkate.com/pistachio-milk/"
+      },
+      {
+        "nombre": "Alphafoodie - Simple DIY Pistachio Milk",
+        "url": "https://www.alphafoodie.com/simple-diy-homemade-pistachio-milk/"
+      },
+      {
+        "nombre": "The Wooden Skillet - Pistachio Milk",
+        "url": "https://thewoodenskillet.com/pistachio-milk/"
+      }
+    ],
+    "ultimaVerificacion": "2026-01-01"
+  },
+  {
+    "ratioId": "ratio_anacardo",
+    "ingredientId": "anacardo",
+    "gramosBase": 140.0,
+    "aguaMlBase": 1000.0,
+    "confianza": "alta",
+    "fuentes": [
+      {
+        "nombre": "Cookie and Kate - Cashew Milk Recipe",
+        "url": "https://cookieandkate.com/cashew-milk-recipe/"
+      },
+      {
+        "nombre": "My Pure Plants - Cashew Milk Recipe",
+        "url": "https://mypureplants.com/cashew-milk-recipe/"
+      },
+      {
+        "nombre": "Alphafoodie - Zero-Waste Homemade Cashew Milk",
+        "url": "https://www.alphafoodie.com/zero-waste-homemade-cashew-milk/"
+      }
+    ],
+    "ultimaVerificacion": "2026-01-01"
+  },
+  {
+    "ratioId": "ratio_arroz",
+    "ingredientId": "arroz",
+    "gramosBase": 200.0,
+    "aguaMlBase": 1000.0,
+    "confianza": "alta",
+    "fuentes": [
+      {
+        "nombre": "Alphafoodie - Simple Homemade Rice Milk",
+        "url": "https://www.alphafoodie.com/simple-homemade-rice-milk-2-ingredients/"
+      },
+      {
+        "nombre": "Don't Waste the Crumbs - Homemade Rice Milk",
+        "url": "https://dontwastethecrumbs.com/dairy-alternative-homemade-rice-milk-2/"
+      },
+      {
+        "nombre": "Minimalist Baker - Homemade Rice Milk",
+        "url": "https://minimalistbaker.com/make-rice-milk/"
+      }
+    ],
+    "ultimaVerificacion": "2026-01-01"
+  }
+]

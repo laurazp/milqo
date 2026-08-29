@@ -1,0 +1,57 @@
+[
+  {
+    "id": "avena",
+    "nombre": "Avena",
+    "articulo": "la",
+    "colorHex": "F0A55A",
+    "remojoRecomendado": "Opcional, 10–30 min (mejora la cremosidad, no es imprescindible)",
+    "requiereColado": true,
+    "rangoMinG": 120,
+    "rangoMaxG": 180,
+    "tiempoBatido": "30–40 s a máxima potencia (no más, o queda viscosa)"
+  },
+  {
+    "id": "almendra",
+    "nombre": "Almendra",
+    "articulo": "la",
+    "colorHex": "C9A66B",
+    "remojoRecomendado": "8–12 h en la nevera (o 30 min en agua caliente si hay prisa)",
+    "requiereColado": true,
+    "rangoMinG": 130,
+    "rangoMaxG": 190,
+    "tiempoBatido": "60–120 s a máxima potencia"
+  },
+  {
+    "id": "pistacho",
+    "nombre": "Pistacho",
+    "articulo": "el",
+    "colorHex": "B09ED6",
+    "remojoRecomendado": "4–8 h en la nevera (mínimo 15–30 min en agua caliente)",
+    "requiereColado": true,
+    "rangoMinG": 110,
+    "rangoMaxG": 160,
+    "tiempoBatido": "60–120 s a máxima potencia"
+  },
+  {
+    "id": "anacardo",
+    "nombre": "Anacardo",
+    "articulo": "el",
+    "colorHex": "B09ED6",
+    "remojoRecomendado": "2–4 h (o 30 min en agua caliente); opcional si la batidora es muy potente",
+    "requiereColado": false,
+    "rangoMinG": 120,
+    "rangoMaxG": 190,
+    "tiempoBatido": "120–180 s a máxima potencia"
+  },
+  {
+    "id": "arroz",
+    "nombre": "Arroz cocido",
+    "articulo": "el",
+    "colorHex": "AFC08A",
+    "remojoRecomendado": "No aplica: se parte de arroz ya cocido y frío",
+    "requiereColado": true,
+    "rangoMinG": 150,
+    "rangoMaxG": 260,
+    "tiempoBatido": "60–90 s a máxima potencia"
+  }
+]

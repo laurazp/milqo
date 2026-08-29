@@ -1,0 +1,910 @@
+[
+  {
+    "id": "avena_clasica",
+    "ingredientId": "avena",
+    "nombre": "Avena clásica",
+    "tiempoRemojo": "Opcional, 10 min",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de copos de avena",
+        "nombre": "copos de avena",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua fría",
+        "nombre": "agua fría",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Pizca de sal",
+        "nombre": "sal",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": true
+      }
+    ],
+    "pasos": [
+      "Si se desea, remoja la avena 10 min en agua fría y escúrrela.",
+      "Añade la avena y el litro de agua nueva a la batidora.",
+      "Bate a máxima potencia solo 30–40 segundos (no más).",
+      "Cuela con una bolsa de tela y refrigera hasta 4 días."
+    ],
+    "fuentesNombres": [
+      "Minimalist Baker",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://minimalistbaker.com/make-oat-milk/"
+  },
+  {
+    "id": "avena_vainilla_canela",
+    "ingredientId": "avena",
+    "nombre": "Avena con vainilla y canela",
+    "tiempoRemojo": "Opcional, 10 min",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de copos de avena",
+        "nombre": "copos de avena",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua fría",
+        "nombre": "agua fría",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cdta de esencia de vainilla",
+        "nombre": "esencia de vainilla",
+        "cantidadBase": 1.0,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "½ cdta de canela molida",
+        "nombre": "canela molida",
+        "cantidadBase": 0.5,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Pizca de sal",
+        "nombre": "sal",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Añade todos los ingredientes a la batidora.",
+      "Bate a máxima potencia 30–40 segundos.",
+      "Cuela con bolsa de tela y refrigera hasta 4 días."
+    ],
+    "fuentesNombres": [
+      "Minimalist Baker",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://minimalistbaker.com/make-oat-milk/"
+  },
+  {
+    "id": "avena_datiles",
+    "ingredientId": "avena",
+    "nombre": "Avena con dátiles",
+    "tiempoRemojo": "Dátiles 10 min en agua caliente",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de copos de avena",
+        "nombre": "copos de avena",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua fría",
+        "nombre": "agua fría",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "2–3 dátiles deshuesados, hidratados",
+        "nombre": "dátiles deshuesados, hidratados",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Hidrata los dátiles 10 min en agua caliente y escúrrelos.",
+      "Añade avena, dátiles y el litro de agua fría a la batidora.",
+      "Bate 30–40 segundos.",
+      "Cuela con bolsa de tela y refrigera."
+    ],
+    "fuentesNombres": [
+      "Minimalist Baker",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://minimalistbaker.com/make-oat-milk/"
+  },
+  {
+    "id": "avena_cacao",
+    "ingredientId": "avena",
+    "nombre": "Avena con cacao",
+    "tiempoRemojo": "-",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de copos de avena",
+        "nombre": "copos de avena",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua fría",
+        "nombre": "agua fría",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "2 cdas de cacao puro en polvo",
+        "nombre": "cacao puro en polvo",
+        "cantidadBase": 2.0,
+        "unidad": "cucharada",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cda de sirope de arce o dátil",
+        "nombre": "sirope de arce o dátil",
+        "cantidadBase": 1.0,
+        "unidad": "cucharada",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Añade todos los ingredientes a la batidora.",
+      "Bate 30–40 segundos a máxima potencia.",
+      "Cuela con bolsa de tela y refrigera hasta 4 días."
+    ],
+    "fuentesNombres": [
+      "Minimalist Baker",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://minimalistbaker.com/make-oat-milk/"
+  },
+  {
+    "id": "almendra_clasica",
+    "ingredientId": "almendra",
+    "nombre": "Almendra clásica",
+    "tiempoRemojo": "8–12 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de almendra cruda remojada",
+        "nombre": "almendra cruda remojada",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Pizca de sal",
+        "nombre": "sal",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Escurre y enjuaga la almendra remojada.",
+      "Bate con el litro de agua nueva 1–2 minutos a máxima potencia.",
+      "Cuela con bolsa de nueces, exprimiendo bien.",
+      "Refrigera hasta 5 días."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/zero-waste-homemade-almond-milk/"
+  },
+  {
+    "id": "almendra_datiles_canela",
+    "ingredientId": "almendra",
+    "nombre": "Almendra con dátiles y canela",
+    "tiempoRemojo": "8–12 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de almendra cruda remojada",
+        "nombre": "almendra cruda remojada",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "2 dátiles deshuesados",
+        "nombre": "dátiles deshuesados",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "¼ cdta de canela molida",
+        "nombre": "canela molida",
+        "cantidadBase": 0.25,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Pizca de sal",
+        "nombre": "sal",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Escurre y enjuaga la almendra.",
+      "Bate todos los ingredientes 1–2 minutos.",
+      "Cuela con bolsa de nueces y refrigera."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/zero-waste-homemade-almond-milk/"
+  },
+  {
+    "id": "almendra_vainilla",
+    "ingredientId": "almendra",
+    "nombre": "Almendra con vainilla",
+    "tiempoRemojo": "8–12 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de almendra cruda remojada",
+        "nombre": "almendra cruda remojada",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cdta de esencia de vainilla",
+        "nombre": "esencia de vainilla",
+        "cantidadBase": 1.0,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cda de sirope de arce",
+        "nombre": "sirope de arce",
+        "cantidadBase": 1.0,
+        "unidad": "cucharada",
+        "esOpcional": true
+      }
+    ],
+    "pasos": [
+      "Escurre y enjuaga la almendra.",
+      "Bate todos los ingredientes 1–2 minutos.",
+      "Cuela con bolsa de nueces y refrigera."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/zero-waste-homemade-almond-milk/"
+  },
+  {
+    "id": "almendra_cacao",
+    "ingredientId": "almendra",
+    "nombre": "Almendra con cacao",
+    "tiempoRemojo": "8–12 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "150 g de almendra cruda remojada",
+        "nombre": "almendra cruda remojada",
+        "cantidadBase": 150.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "2 cdas de cacao puro en polvo",
+        "nombre": "cacao puro en polvo",
+        "cantidadBase": 2.0,
+        "unidad": "cucharada",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Endulzante al gusto",
+        "nombre": "endulzante",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Escurre y enjuaga la almendra.",
+      "Bate todos los ingredientes 1–2 minutos.",
+      "Cuela con bolsa de nueces y refrigera."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Detoxinista"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/zero-waste-homemade-almond-milk/"
+  },
+  {
+    "id": "pistacho_clasico",
+    "ingredientId": "pistacho",
+    "nombre": "Pistacho clásico",
+    "tiempoRemojo": "4–8 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "130 g de pistachos crudos pelados",
+        "nombre": "pistachos crudos pelados",
+        "cantidadBase": 130.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Pizca de sal",
+        "nombre": "sal",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Remoja los pistachos 4–8 h y escúrrelos.",
+      "Bate con el agua nueva 1–2 minutos.",
+      "Cuela con bolsa de tela fina y refrigera."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "Alphafoodie"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/pistachio-milk/"
+  },
+  {
+    "id": "pistacho_cardamomo_azahar",
+    "ingredientId": "pistacho",
+    "nombre": "Pistacho, cardamomo y agua de azahar",
+    "tiempoRemojo": "4–8 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "130 g de pistachos crudos pelados",
+        "nombre": "pistachos crudos pelados",
+        "cantidadBase": 130.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "¼ cdta de cardamomo molido",
+        "nombre": "cardamomo molido",
+        "cantidadBase": 0.25,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cdta de agua de azahar",
+        "nombre": "agua de azahar",
+        "cantidadBase": 1.0,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Endulzante al gusto",
+        "nombre": "endulzante",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": true
+      }
+    ],
+    "pasos": [
+      "Remoja los pistachos 4–8 h.",
+      "Cuela, enjuaga y bate con el agua nueva.",
+      "Añade el cardamomo y el agua de azahar.",
+      "Cuela con bolsa de tela fina y refrigera."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "Alphafoodie"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/pistachio-milk/"
+  },
+  {
+    "id": "pistacho_vainilla_arce",
+    "ingredientId": "pistacho",
+    "nombre": "Pistacho, vainilla y arce",
+    "tiempoRemojo": "4–8 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "130 g de pistachos crudos pelados",
+        "nombre": "pistachos crudos pelados",
+        "cantidadBase": 130.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cdta de esencia de vainilla",
+        "nombre": "esencia de vainilla",
+        "cantidadBase": 1.0,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1–2 cdas de sirope de arce",
+        "nombre": "sirope de arce",
+        "cantidadBase": 1.5,
+        "unidad": "cucharada",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Remoja los pistachos 4–8 h y escúrrelos.",
+      "Bate todos los ingredientes 1–2 minutos.",
+      "Cuela con bolsa de tela fina y refrigera."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "Alphafoodie"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/pistachio-milk/"
+  },
+  {
+    "id": "pistacho_datiles",
+    "ingredientId": "pistacho",
+    "nombre": "Pistacho con dátiles",
+    "tiempoRemojo": "4–8 h en nevera",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "130 g de pistachos crudos pelados",
+        "nombre": "pistachos crudos pelados",
+        "cantidadBase": 130.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "2–3 dátiles deshuesados",
+        "nombre": "dátiles deshuesados",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Pizca de sal",
+        "nombre": "sal",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Remoja los pistachos 4–8 h y escúrrelos.",
+      "Bate todos los ingredientes 1–2 minutos.",
+      "Cuela con bolsa de tela fina y refrigera."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "Alphafoodie"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/pistachio-milk/"
+  },
+  {
+    "id": "anacardo_clasico",
+    "ingredientId": "anacardo",
+    "nombre": "Anacardo clásico",
+    "tiempoRemojo": "2–4 h (o 30 min en agua caliente)",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "140 g de anacardo crudo remojado",
+        "nombre": "anacardo crudo remojado",
+        "cantidadBase": 140.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Pizca de sal",
+        "nombre": "sal",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Escurre el anacardo remojado.",
+      "Bate con el litro de agua nueva 2–3 minutos hasta que esté totalmente cremoso.",
+      "No es necesario colar. Refrigera hasta 4 días."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "My Pure Plants"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/cashew-milk-recipe/"
+  },
+  {
+    "id": "anacardo_cremoso",
+    "ingredientId": "anacardo",
+    "nombre": "Anacardo cremoso (estilo media nata)",
+    "tiempoRemojo": "2–4 h",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "190 g de anacardo crudo remojado",
+        "nombre": "anacardo crudo remojado",
+        "cantidadBase": 190.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Escurre el anacardo.",
+      "Bate con el agua 2–3 minutos hasta que quede muy cremoso.",
+      "Usa como sustituto de nata o leche evaporada en café y recetas."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "My Pure Plants"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/cashew-milk-recipe/"
+  },
+  {
+    "id": "anacardo_vainilla",
+    "ingredientId": "anacardo",
+    "nombre": "Anacardo con vainilla",
+    "tiempoRemojo": "2–4 h",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "140 g de anacardo crudo remojado",
+        "nombre": "anacardo crudo remojado",
+        "cantidadBase": 140.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cdta de esencia de vainilla",
+        "nombre": "esencia de vainilla",
+        "cantidadBase": 1.0,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Endulzante al gusto",
+        "nombre": "endulzante",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Escurre el anacardo.",
+      "Bate todos los ingredientes 2–3 minutos.",
+      "Refrigera hasta 4 días."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "My Pure Plants"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/cashew-milk-recipe/"
+  },
+  {
+    "id": "anacardo_chocolate",
+    "ingredientId": "anacardo",
+    "nombre": "Anacardo con chocolate",
+    "tiempoRemojo": "2–4 h",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "140 g de anacardo crudo remojado",
+        "nombre": "anacardo crudo remojado",
+        "cantidadBase": 140.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "2 cdas de cacao puro en polvo",
+        "nombre": "cacao puro en polvo",
+        "cantidadBase": 2.0,
+        "unidad": "cucharada",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1–2 cdas de sirope de arce",
+        "nombre": "sirope de arce",
+        "cantidadBase": 1.5,
+        "unidad": "cucharada",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Escurre el anacardo.",
+      "Bate todos los ingredientes 2–3 minutos.",
+      "Refrigera hasta 4 días."
+    ],
+    "fuentesNombres": [
+      "Cookie and Kate",
+      "My Pure Plants"
+    ],
+    "fuenteUrl": "https://cookieandkate.com/cashew-milk-recipe/"
+  },
+  {
+    "id": "arroz_clasico",
+    "ingredientId": "arroz",
+    "nombre": "Arroz clásico",
+    "tiempoRemojo": "No aplica",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "200 g de arroz cocido y frío",
+        "nombre": "arroz cocido y frío",
+        "cantidadBase": 200.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Añade el arroz cocido y el agua a la batidora.",
+      "Bate 1–2 minutos hasta que quede suave.",
+      "Cuela con bolsa de tela y refrigera hasta 5 días."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Don't Waste the Crumbs"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/simple-homemade-rice-milk-2-ingredients/"
+  },
+  {
+    "id": "arroz_horchata",
+    "ingredientId": "arroz",
+    "nombre": "Horchata sencilla de arroz (canela y vainilla)",
+    "tiempoRemojo": "No aplica",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "200 g de arroz cocido y frío",
+        "nombre": "arroz cocido y frío",
+        "cantidadBase": 200.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "½ cdta de canela molida",
+        "nombre": "canela molida",
+        "cantidadBase": 0.5,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1 cdta de esencia de vainilla",
+        "nombre": "esencia de vainilla",
+        "cantidadBase": 1.0,
+        "unidad": "cucharadita",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "Endulzante al gusto",
+        "nombre": "endulzante",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Añade todos los ingredientes a la batidora.",
+      "Bate 1–2 minutos.",
+      "Cuela con bolsa de tela y refrigera."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Don't Waste the Crumbs"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/simple-homemade-rice-milk-2-ingredients/"
+  },
+  {
+    "id": "arroz_datiles",
+    "ingredientId": "arroz",
+    "nombre": "Arroz con dátiles",
+    "tiempoRemojo": "Dátiles 10 min en agua caliente",
+    "tiempoPreparacion": "10 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "200 g de arroz cocido y frío",
+        "nombre": "arroz cocido y frío",
+        "cantidadBase": 200.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "2–3 dátiles deshuesados, hidratados",
+        "nombre": "dátiles deshuesados, hidratados",
+        "cantidadBase": null,
+        "unidad": "otro",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Hidrata los dátiles y escúrrelos.",
+      "Bate todos los ingredientes 1–2 minutos.",
+      "Cuela con bolsa de tela y refrigera."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Don't Waste the Crumbs"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/simple-homemade-rice-milk-2-ingredients/"
+  },
+  {
+    "id": "arroz_cremoso_cafe",
+    "ingredientId": "arroz",
+    "nombre": "Arroz cremoso para café",
+    "tiempoRemojo": "No aplica",
+    "tiempoPreparacion": "5 min",
+    "rindeMl": 1000.0,
+    "ingredientes": [
+      {
+        "textoOriginal": "260 g de arroz cocido y frío",
+        "nombre": "arroz cocido y frío",
+        "cantidadBase": 260.0,
+        "unidad": "gramos",
+        "esOpcional": false
+      },
+      {
+        "textoOriginal": "1000 ml de agua filtrada",
+        "nombre": "agua filtrada",
+        "cantidadBase": 1000.0,
+        "unidad": "mililitros",
+        "esOpcional": false
+      }
+    ],
+    "pasos": [
+      "Añade el arroz y el agua a la batidora.",
+      "Bate 1–2 minutos hasta que quede muy suave.",
+      "Cuela con bolsa de tela; ideal como base para café con leche vegetal."
+    ],
+    "fuentesNombres": [
+      "Alphafoodie",
+      "Don't Waste the Crumbs"
+    ],
+    "fuenteUrl": "https://www.alphafoodie.com/simple-homemade-rice-milk-2-ingredients/"
+  }
+]

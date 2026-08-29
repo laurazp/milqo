@@ -1,0 +1,27 @@
+[
+  {
+    "ingredientId": "avena",
+    "gramosPorTaza": 90.0,
+    "gramosPorCucharada": 6.0
+  },
+  {
+    "ingredientId": "almendra",
+    "gramosPorTaza": 140.0,
+    "gramosPorCucharada": 9.0
+  },
+  {
+    "ingredientId": "pistacho",
+    "gramosPorTaza": 125.0,
+    "gramosPorCucharada": 8.0
+  },
+  {
+    "ingredientId": "anacardo",
+    "gramosPorTaza": 137.0,
+    "gramosPorCucharada": 9.0
+  },
+  {
+    "ingredientId": "arroz",
+    "gramosPorTaza": 195.0,
+    "gramosPorCucharada": 12.0
+  }
+]
