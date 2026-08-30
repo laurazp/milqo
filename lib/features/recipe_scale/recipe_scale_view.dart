@@ -131,12 +131,13 @@ class _RecipeScaleViewState extends ConsumerState<RecipeScaleView> {
               await ref.read(manageFavoritesUseCaseProvider).ensureRecipeFavorite(widget.recipeId);
               ref.read(favoritesRefreshTriggerProvider.notifier).bump();
               if (!context.mounted) return;
+              final messengerKey = ref.read(scaffoldMessengerKeyProvider);
               // `go` (not `push`) both discards this screen and Detalle de
               // receta beneath it, and switches the bottom bar to
               // Favoritos — apartado 4.8: "Guardar receta escalada" ->
               // "Favoritos (confirmación)".
               context.go(AppRoutes.favoritesTab);
-              rootScaffoldMessengerKey.currentState?.showSnackBar(
+              messengerKey.currentState?.showSnackBar(
                 const SnackBar(content: Text('Receta escalada guardada en Favoritos')),
               );
             },

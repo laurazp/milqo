@@ -24,7 +24,17 @@ class AppDataStore {
   late final List<Recipe> recipes;
   late final List<ConversionEntry> conversionEntries;
 
+  bool _loaded = false;
+
+  /// Idempotente: los campos de arriba son `late final`, así que una
+  /// segunda llamada a `load()` lanzaría un `LateInitializationError` al
+  /// intentar reasignarlos. `main()` solo llama una vez en producción, pero
+  /// cada test (`testWidgets`) vuelve a llamar a `load()`, así que hace
+  /// falta esta guarda para no reventar (o colgarse a medio reasignar) al
+  /// ejecutar varios tests en el mismo proceso.
   Future<void> load() async {
+    if (_loaded) return;
+
     final ingredientsJson = await _loadJsonList('assets/data/ingredients.json');
     ingredients = ingredientsJson
         .map((json) => Ingredient.fromJson(json, icon: kIngredientIcons[json['id']]!))
@@ -38,6 +48,8 @@ class AppDataStore {
 
     final conversionJson = await _loadJsonList('assets/data/conversion.json');
     conversionEntries = conversionJson.map(ConversionEntry.fromJson).toList();
+
+    _loaded = true;
   }
 
   Future<List<Map<String, dynamic>>> _loadJsonList(String assetPath) async {
